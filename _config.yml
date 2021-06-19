@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aisum-purdue.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # socials
+github_username:  AISUM-Purdue
 
 # Build settings
 theme: minima
